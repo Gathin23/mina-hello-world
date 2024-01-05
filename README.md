@@ -5,7 +5,7 @@ This template uses TypeScript.
 ## How to build
 
 ```sh
-npm run build
+npm run build && node build/src/main.js
 ```
 
 ## How to run tests
